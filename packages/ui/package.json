@@ -1,0 +1,22 @@
+{
+  "name": "ui",
+  "private": true,
+  "scripts": {
+    "dev": "parcel public/index.html"
+  },
+  "dependencies": {
+    "apollo-boost": "^0.1.16",
+    "apollo-react": "^0.7.1",
+    "graphql": "^14.0.2",
+    "graphql-tag": "^2.10.0",
+    "react": "^16.5.2",
+    "react-apollo": "^2.2.4",
+    "react-dom": "^16.5.2"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.14",
+    "@types/react-dom": "^16.0.8",
+    "sass": "^1.14.1",
+    "tslint-react": "^3.6.0"
+  }
+}
